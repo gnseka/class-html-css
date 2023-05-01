@@ -94,4 +94,6 @@ function onInputChange() {
 // window.onload(windowLoad());
 
 // let bounce = document.getElementById("welcome");
-// console.log(bounce, "bounce bouncess
+// console.log(window  , "bounce bouncess")
+
+
